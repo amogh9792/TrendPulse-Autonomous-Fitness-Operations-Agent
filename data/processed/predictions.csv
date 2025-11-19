@@ -1,0 +1,246 @@
+date,city,product,trend_score,day,month,predicted_units
+2025-11-20,Bangalore,Resistance Band,60,20,11,43
+2025-11-20,Bangalore,Kettlebell,61,20,11,44
+2025-11-20,Bangalore,Yoga Mat,58,20,11,51
+2025-11-20,Bangalore,Dumbbell Set,63,20,11,49
+2025-11-20,Bangalore,Protein Powder,57,20,11,51
+2025-11-20,Bangalore,Treadmill,58,20,11,51
+2025-11-20,Bangalore,Exercise Ball,56,20,11,50
+2025-11-20,Delhi,Resistance Band,60,20,11,43
+2025-11-20,Delhi,Kettlebell,61,20,11,44
+2025-11-20,Delhi,Yoga Mat,58,20,11,51
+2025-11-20,Delhi,Dumbbell Set,63,20,11,49
+2025-11-20,Delhi,Protein Powder,57,20,11,51
+2025-11-20,Delhi,Treadmill,58,20,11,51
+2025-11-20,Delhi,Exercise Ball,56,20,11,50
+2025-11-20,Mumbai,Resistance Band,60,20,11,43
+2025-11-20,Mumbai,Kettlebell,61,20,11,44
+2025-11-20,Mumbai,Yoga Mat,58,20,11,51
+2025-11-20,Mumbai,Dumbbell Set,63,20,11,49
+2025-11-20,Mumbai,Protein Powder,57,20,11,51
+2025-11-20,Mumbai,Treadmill,58,20,11,51
+2025-11-20,Mumbai,Exercise Ball,56,20,11,50
+2025-11-20,Chennai,Resistance Band,60,20,11,43
+2025-11-20,Chennai,Kettlebell,61,20,11,44
+2025-11-20,Chennai,Yoga Mat,58,20,11,51
+2025-11-20,Chennai,Dumbbell Set,63,20,11,49
+2025-11-20,Chennai,Protein Powder,57,20,11,51
+2025-11-20,Chennai,Treadmill,58,20,11,51
+2025-11-20,Chennai,Exercise Ball,56,20,11,50
+2025-11-20,Hyderabad,Resistance Band,60,20,11,43
+2025-11-20,Hyderabad,Kettlebell,61,20,11,44
+2025-11-20,Hyderabad,Yoga Mat,58,20,11,51
+2025-11-20,Hyderabad,Dumbbell Set,63,20,11,49
+2025-11-20,Hyderabad,Protein Powder,57,20,11,51
+2025-11-20,Hyderabad,Treadmill,58,20,11,51
+2025-11-20,Hyderabad,Exercise Ball,56,20,11,50
+2025-11-21,Bangalore,Resistance Band,60,21,11,43
+2025-11-21,Bangalore,Kettlebell,61,21,11,41
+2025-11-21,Bangalore,Yoga Mat,58,21,11,52
+2025-11-21,Bangalore,Dumbbell Set,63,21,11,45
+2025-11-21,Bangalore,Protein Powder,57,21,11,49
+2025-11-21,Bangalore,Treadmill,58,21,11,52
+2025-11-21,Bangalore,Exercise Ball,56,21,11,56
+2025-11-21,Delhi,Resistance Band,60,21,11,43
+2025-11-21,Delhi,Kettlebell,61,21,11,41
+2025-11-21,Delhi,Yoga Mat,58,21,11,52
+2025-11-21,Delhi,Dumbbell Set,63,21,11,45
+2025-11-21,Delhi,Protein Powder,57,21,11,49
+2025-11-21,Delhi,Treadmill,58,21,11,52
+2025-11-21,Delhi,Exercise Ball,56,21,11,56
+2025-11-21,Mumbai,Resistance Band,60,21,11,43
+2025-11-21,Mumbai,Kettlebell,61,21,11,41
+2025-11-21,Mumbai,Yoga Mat,58,21,11,52
+2025-11-21,Mumbai,Dumbbell Set,63,21,11,45
+2025-11-21,Mumbai,Protein Powder,57,21,11,49
+2025-11-21,Mumbai,Treadmill,58,21,11,52
+2025-11-21,Mumbai,Exercise Ball,56,21,11,56
+2025-11-21,Chennai,Resistance Band,60,21,11,43
+2025-11-21,Chennai,Kettlebell,61,21,11,41
+2025-11-21,Chennai,Yoga Mat,58,21,11,52
+2025-11-21,Chennai,Dumbbell Set,63,21,11,45
+2025-11-21,Chennai,Protein Powder,57,21,11,49
+2025-11-21,Chennai,Treadmill,58,21,11,52
+2025-11-21,Chennai,Exercise Ball,56,21,11,56
+2025-11-21,Hyderabad,Resistance Band,60,21,11,43
+2025-11-21,Hyderabad,Kettlebell,61,21,11,41
+2025-11-21,Hyderabad,Yoga Mat,58,21,11,52
+2025-11-21,Hyderabad,Dumbbell Set,63,21,11,45
+2025-11-21,Hyderabad,Protein Powder,57,21,11,49
+2025-11-21,Hyderabad,Treadmill,58,21,11,52
+2025-11-21,Hyderabad,Exercise Ball,56,21,11,56
+2025-11-22,Bangalore,Resistance Band,60,22,11,39
+2025-11-22,Bangalore,Kettlebell,61,22,11,36
+2025-11-22,Bangalore,Yoga Mat,58,22,11,49
+2025-11-22,Bangalore,Dumbbell Set,63,22,11,42
+2025-11-22,Bangalore,Protein Powder,57,22,11,46
+2025-11-22,Bangalore,Treadmill,58,22,11,49
+2025-11-22,Bangalore,Exercise Ball,56,22,11,43
+2025-11-22,Delhi,Resistance Band,60,22,11,39
+2025-11-22,Delhi,Kettlebell,61,22,11,36
+2025-11-22,Delhi,Yoga Mat,58,22,11,49
+2025-11-22,Delhi,Dumbbell Set,63,22,11,42
+2025-11-22,Delhi,Protein Powder,57,22,11,46
+2025-11-22,Delhi,Treadmill,58,22,11,49
+2025-11-22,Delhi,Exercise Ball,56,22,11,43
+2025-11-22,Mumbai,Resistance Band,60,22,11,39
+2025-11-22,Mumbai,Kettlebell,61,22,11,36
+2025-11-22,Mumbai,Yoga Mat,58,22,11,49
+2025-11-22,Mumbai,Dumbbell Set,63,22,11,42
+2025-11-22,Mumbai,Protein Powder,57,22,11,46
+2025-11-22,Mumbai,Treadmill,58,22,11,49
+2025-11-22,Mumbai,Exercise Ball,56,22,11,43
+2025-11-22,Chennai,Resistance Band,60,22,11,39
+2025-11-22,Chennai,Kettlebell,61,22,11,36
+2025-11-22,Chennai,Yoga Mat,58,22,11,49
+2025-11-22,Chennai,Dumbbell Set,63,22,11,42
+2025-11-22,Chennai,Protein Powder,57,22,11,46
+2025-11-22,Chennai,Treadmill,58,22,11,49
+2025-11-22,Chennai,Exercise Ball,56,22,11,43
+2025-11-22,Hyderabad,Resistance Band,60,22,11,39
+2025-11-22,Hyderabad,Kettlebell,61,22,11,36
+2025-11-22,Hyderabad,Yoga Mat,58,22,11,49
+2025-11-22,Hyderabad,Dumbbell Set,63,22,11,42
+2025-11-22,Hyderabad,Protein Powder,57,22,11,46
+2025-11-22,Hyderabad,Treadmill,58,22,11,49
+2025-11-22,Hyderabad,Exercise Ball,56,22,11,43
+2025-11-23,Bangalore,Resistance Band,60,23,11,39
+2025-11-23,Bangalore,Kettlebell,61,23,11,38
+2025-11-23,Bangalore,Yoga Mat,58,23,11,51
+2025-11-23,Bangalore,Dumbbell Set,63,23,11,41
+2025-11-23,Bangalore,Protein Powder,57,23,11,48
+2025-11-23,Bangalore,Treadmill,58,23,11,51
+2025-11-23,Bangalore,Exercise Ball,56,23,11,41
+2025-11-23,Delhi,Resistance Band,60,23,11,39
+2025-11-23,Delhi,Kettlebell,61,23,11,38
+2025-11-23,Delhi,Yoga Mat,58,23,11,51
+2025-11-23,Delhi,Dumbbell Set,63,23,11,41
+2025-11-23,Delhi,Protein Powder,57,23,11,48
+2025-11-23,Delhi,Treadmill,58,23,11,51
+2025-11-23,Delhi,Exercise Ball,56,23,11,41
+2025-11-23,Mumbai,Resistance Band,60,23,11,39
+2025-11-23,Mumbai,Kettlebell,61,23,11,38
+2025-11-23,Mumbai,Yoga Mat,58,23,11,51
+2025-11-23,Mumbai,Dumbbell Set,63,23,11,41
+2025-11-23,Mumbai,Protein Powder,57,23,11,48
+2025-11-23,Mumbai,Treadmill,58,23,11,51
+2025-11-23,Mumbai,Exercise Ball,56,23,11,41
+2025-11-23,Chennai,Resistance Band,60,23,11,39
+2025-11-23,Chennai,Kettlebell,61,23,11,38
+2025-11-23,Chennai,Yoga Mat,58,23,11,51
+2025-11-23,Chennai,Dumbbell Set,63,23,11,41
+2025-11-23,Chennai,Protein Powder,57,23,11,48
+2025-11-23,Chennai,Treadmill,58,23,11,51
+2025-11-23,Chennai,Exercise Ball,56,23,11,41
+2025-11-23,Hyderabad,Resistance Band,60,23,11,39
+2025-11-23,Hyderabad,Kettlebell,61,23,11,38
+2025-11-23,Hyderabad,Yoga Mat,58,23,11,51
+2025-11-23,Hyderabad,Dumbbell Set,63,23,11,41
+2025-11-23,Hyderabad,Protein Powder,57,23,11,48
+2025-11-23,Hyderabad,Treadmill,58,23,11,51
+2025-11-23,Hyderabad,Exercise Ball,56,23,11,41
+2025-11-24,Bangalore,Resistance Band,60,24,11,42
+2025-11-24,Bangalore,Kettlebell,61,24,11,43
+2025-11-24,Bangalore,Yoga Mat,58,24,11,55
+2025-11-24,Bangalore,Dumbbell Set,63,24,11,42
+2025-11-24,Bangalore,Protein Powder,57,24,11,51
+2025-11-24,Bangalore,Treadmill,58,24,11,55
+2025-11-24,Bangalore,Exercise Ball,56,24,11,41
+2025-11-24,Delhi,Resistance Band,60,24,11,42
+2025-11-24,Delhi,Kettlebell,61,24,11,43
+2025-11-24,Delhi,Yoga Mat,58,24,11,55
+2025-11-24,Delhi,Dumbbell Set,63,24,11,42
+2025-11-24,Delhi,Protein Powder,57,24,11,51
+2025-11-24,Delhi,Treadmill,58,24,11,55
+2025-11-24,Delhi,Exercise Ball,56,24,11,41
+2025-11-24,Mumbai,Resistance Band,60,24,11,42
+2025-11-24,Mumbai,Kettlebell,61,24,11,43
+2025-11-24,Mumbai,Yoga Mat,58,24,11,55
+2025-11-24,Mumbai,Dumbbell Set,63,24,11,42
+2025-11-24,Mumbai,Protein Powder,57,24,11,51
+2025-11-24,Mumbai,Treadmill,58,24,11,55
+2025-11-24,Mumbai,Exercise Ball,56,24,11,41
+2025-11-24,Chennai,Resistance Band,60,24,11,42
+2025-11-24,Chennai,Kettlebell,61,24,11,43
+2025-11-24,Chennai,Yoga Mat,58,24,11,55
+2025-11-24,Chennai,Dumbbell Set,63,24,11,42
+2025-11-24,Chennai,Protein Powder,57,24,11,51
+2025-11-24,Chennai,Treadmill,58,24,11,55
+2025-11-24,Chennai,Exercise Ball,56,24,11,41
+2025-11-24,Hyderabad,Resistance Band,60,24,11,42
+2025-11-24,Hyderabad,Kettlebell,61,24,11,43
+2025-11-24,Hyderabad,Yoga Mat,58,24,11,55
+2025-11-24,Hyderabad,Dumbbell Set,63,24,11,42
+2025-11-24,Hyderabad,Protein Powder,57,24,11,51
+2025-11-24,Hyderabad,Treadmill,58,24,11,55
+2025-11-24,Hyderabad,Exercise Ball,56,24,11,41
+2025-11-25,Bangalore,Resistance Band,60,25,11,50
+2025-11-25,Bangalore,Kettlebell,61,25,11,53
+2025-11-25,Bangalore,Yoga Mat,58,25,11,54
+2025-11-25,Bangalore,Dumbbell Set,63,25,11,45
+2025-11-25,Bangalore,Protein Powder,57,25,11,51
+2025-11-25,Bangalore,Treadmill,58,25,11,54
+2025-11-25,Bangalore,Exercise Ball,56,25,11,43
+2025-11-25,Delhi,Resistance Band,60,25,11,50
+2025-11-25,Delhi,Kettlebell,61,25,11,53
+2025-11-25,Delhi,Yoga Mat,58,25,11,54
+2025-11-25,Delhi,Dumbbell Set,63,25,11,45
+2025-11-25,Delhi,Protein Powder,57,25,11,51
+2025-11-25,Delhi,Treadmill,58,25,11,54
+2025-11-25,Delhi,Exercise Ball,56,25,11,43
+2025-11-25,Mumbai,Resistance Band,60,25,11,50
+2025-11-25,Mumbai,Kettlebell,61,25,11,53
+2025-11-25,Mumbai,Yoga Mat,58,25,11,54
+2025-11-25,Mumbai,Dumbbell Set,63,25,11,45
+2025-11-25,Mumbai,Protein Powder,57,25,11,51
+2025-11-25,Mumbai,Treadmill,58,25,11,54
+2025-11-25,Mumbai,Exercise Ball,56,25,11,43
+2025-11-25,Chennai,Resistance Band,60,25,11,50
+2025-11-25,Chennai,Kettlebell,61,25,11,53
+2025-11-25,Chennai,Yoga Mat,58,25,11,54
+2025-11-25,Chennai,Dumbbell Set,63,25,11,45
+2025-11-25,Chennai,Protein Powder,57,25,11,51
+2025-11-25,Chennai,Treadmill,58,25,11,54
+2025-11-25,Chennai,Exercise Ball,56,25,11,43
+2025-11-25,Hyderabad,Resistance Band,60,25,11,50
+2025-11-25,Hyderabad,Kettlebell,61,25,11,53
+2025-11-25,Hyderabad,Yoga Mat,58,25,11,54
+2025-11-25,Hyderabad,Dumbbell Set,63,25,11,45
+2025-11-25,Hyderabad,Protein Powder,57,25,11,51
+2025-11-25,Hyderabad,Treadmill,58,25,11,54
+2025-11-25,Hyderabad,Exercise Ball,56,25,11,43
+2025-11-26,Bangalore,Resistance Band,60,26,11,64
+2025-11-26,Bangalore,Kettlebell,61,26,11,64
+2025-11-26,Bangalore,Yoga Mat,58,26,11,56
+2025-11-26,Bangalore,Dumbbell Set,63,26,11,46
+2025-11-26,Bangalore,Protein Powder,57,26,11,55
+2025-11-26,Bangalore,Treadmill,58,26,11,56
+2025-11-26,Bangalore,Exercise Ball,56,26,11,51
+2025-11-26,Delhi,Resistance Band,60,26,11,64
+2025-11-26,Delhi,Kettlebell,61,26,11,64
+2025-11-26,Delhi,Yoga Mat,58,26,11,56
+2025-11-26,Delhi,Dumbbell Set,63,26,11,46
+2025-11-26,Delhi,Protein Powder,57,26,11,55
+2025-11-26,Delhi,Treadmill,58,26,11,56
+2025-11-26,Delhi,Exercise Ball,56,26,11,51
+2025-11-26,Mumbai,Resistance Band,60,26,11,64
+2025-11-26,Mumbai,Kettlebell,61,26,11,64
+2025-11-26,Mumbai,Yoga Mat,58,26,11,56
+2025-11-26,Mumbai,Dumbbell Set,63,26,11,46
+2025-11-26,Mumbai,Protein Powder,57,26,11,55
+2025-11-26,Mumbai,Treadmill,58,26,11,56
+2025-11-26,Mumbai,Exercise Ball,56,26,11,51
+2025-11-26,Chennai,Resistance Band,60,26,11,64
+2025-11-26,Chennai,Kettlebell,61,26,11,64
+2025-11-26,Chennai,Yoga Mat,58,26,11,56
+2025-11-26,Chennai,Dumbbell Set,63,26,11,46
+2025-11-26,Chennai,Protein Powder,57,26,11,55
+2025-11-26,Chennai,Treadmill,58,26,11,56
+2025-11-26,Chennai,Exercise Ball,56,26,11,51
+2025-11-26,Hyderabad,Resistance Band,60,26,11,64
+2025-11-26,Hyderabad,Kettlebell,61,26,11,64
+2025-11-26,Hyderabad,Yoga Mat,58,26,11,56
+2025-11-26,Hyderabad,Dumbbell Set,63,26,11,46
+2025-11-26,Hyderabad,Protein Powder,57,26,11,55
+2025-11-26,Hyderabad,Treadmill,58,26,11,56
+2025-11-26,Hyderabad,Exercise Ball,56,26,11,51

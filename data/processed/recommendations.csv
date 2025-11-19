@@ -1,0 +1,226 @@
+date,city,product,action
+2025-11-20,Bangalore,Resistance Band,Reorder 43 units
+2025-11-20,Bangalore,Kettlebell,Reorder 44 units
+2025-11-20,Bangalore,Yoga Mat,Reorder 51 units
+2025-11-20,Bangalore,Dumbbell Set,Reorder 49 units
+2025-11-20,Bangalore,Protein Powder,Reorder 51 units
+2025-11-20,Bangalore,Treadmill,Reorder 51 units
+2025-11-20,Bangalore,Exercise Ball,Reorder 50 units
+2025-11-20,Delhi,Resistance Band,Reorder 43 units
+2025-11-20,Delhi,Kettlebell,Reorder 44 units
+2025-11-20,Delhi,Yoga Mat,Reorder 51 units
+2025-11-20,Delhi,Dumbbell Set,Reorder 49 units
+2025-11-20,Delhi,Protein Powder,Reorder 51 units
+2025-11-20,Delhi,Treadmill,Reorder 51 units
+2025-11-20,Delhi,Exercise Ball,Reorder 50 units
+2025-11-20,Mumbai,Resistance Band,Reorder 43 units
+2025-11-20,Mumbai,Kettlebell,Reorder 44 units
+2025-11-20,Mumbai,Yoga Mat,Reorder 51 units
+2025-11-20,Mumbai,Dumbbell Set,Reorder 49 units
+2025-11-20,Mumbai,Protein Powder,Reorder 51 units
+2025-11-20,Mumbai,Treadmill,Reorder 51 units
+2025-11-20,Mumbai,Exercise Ball,Reorder 50 units
+2025-11-20,Chennai,Resistance Band,Reorder 43 units
+2025-11-20,Chennai,Kettlebell,Reorder 44 units
+2025-11-20,Chennai,Yoga Mat,Reorder 51 units
+2025-11-20,Chennai,Dumbbell Set,Reorder 49 units
+2025-11-20,Chennai,Protein Powder,Reorder 51 units
+2025-11-20,Chennai,Treadmill,Reorder 51 units
+2025-11-20,Chennai,Exercise Ball,Reorder 50 units
+2025-11-20,Hyderabad,Resistance Band,Reorder 43 units
+2025-11-20,Hyderabad,Kettlebell,Reorder 44 units
+2025-11-20,Hyderabad,Yoga Mat,Reorder 51 units
+2025-11-20,Hyderabad,Dumbbell Set,Reorder 49 units
+2025-11-20,Hyderabad,Protein Powder,Reorder 51 units
+2025-11-20,Hyderabad,Treadmill,Reorder 51 units
+2025-11-20,Hyderabad,Exercise Ball,Reorder 50 units
+2025-11-21,Bangalore,Resistance Band,Reorder 43 units
+2025-11-21,Bangalore,Kettlebell,Reorder 41 units
+2025-11-21,Bangalore,Yoga Mat,Reorder 52 units
+2025-11-21,Bangalore,Dumbbell Set,Reorder 45 units
+2025-11-21,Bangalore,Protein Powder,Reorder 49 units
+2025-11-21,Bangalore,Treadmill,Reorder 52 units
+2025-11-21,Bangalore,Exercise Ball,Reorder 56 units
+2025-11-21,Delhi,Resistance Band,Reorder 43 units
+2025-11-21,Delhi,Kettlebell,Reorder 41 units
+2025-11-21,Delhi,Yoga Mat,Reorder 52 units
+2025-11-21,Delhi,Dumbbell Set,Reorder 45 units
+2025-11-21,Delhi,Protein Powder,Reorder 49 units
+2025-11-21,Delhi,Treadmill,Reorder 52 units
+2025-11-21,Delhi,Exercise Ball,Reorder 56 units
+2025-11-21,Mumbai,Resistance Band,Reorder 43 units
+2025-11-21,Mumbai,Kettlebell,Reorder 41 units
+2025-11-21,Mumbai,Yoga Mat,Reorder 52 units
+2025-11-21,Mumbai,Dumbbell Set,Reorder 45 units
+2025-11-21,Mumbai,Protein Powder,Reorder 49 units
+2025-11-21,Mumbai,Treadmill,Reorder 52 units
+2025-11-21,Mumbai,Exercise Ball,Reorder 56 units
+2025-11-21,Chennai,Resistance Band,Reorder 43 units
+2025-11-21,Chennai,Kettlebell,Reorder 41 units
+2025-11-21,Chennai,Yoga Mat,Reorder 52 units
+2025-11-21,Chennai,Dumbbell Set,Reorder 45 units
+2025-11-21,Chennai,Protein Powder,Reorder 49 units
+2025-11-21,Chennai,Treadmill,Reorder 52 units
+2025-11-21,Chennai,Exercise Ball,Reorder 56 units
+2025-11-21,Hyderabad,Resistance Band,Reorder 43 units
+2025-11-21,Hyderabad,Kettlebell,Reorder 41 units
+2025-11-21,Hyderabad,Yoga Mat,Reorder 52 units
+2025-11-21,Hyderabad,Dumbbell Set,Reorder 45 units
+2025-11-21,Hyderabad,Protein Powder,Reorder 49 units
+2025-11-21,Hyderabad,Treadmill,Reorder 52 units
+2025-11-21,Hyderabad,Exercise Ball,Reorder 56 units
+2025-11-22,Bangalore,Yoga Mat,Reorder 49 units
+2025-11-22,Bangalore,Dumbbell Set,Reorder 42 units
+2025-11-22,Bangalore,Protein Powder,Reorder 46 units
+2025-11-22,Bangalore,Treadmill,Reorder 49 units
+2025-11-22,Bangalore,Exercise Ball,Reorder 43 units
+2025-11-22,Delhi,Yoga Mat,Reorder 49 units
+2025-11-22,Delhi,Dumbbell Set,Reorder 42 units
+2025-11-22,Delhi,Protein Powder,Reorder 46 units
+2025-11-22,Delhi,Treadmill,Reorder 49 units
+2025-11-22,Delhi,Exercise Ball,Reorder 43 units
+2025-11-22,Mumbai,Yoga Mat,Reorder 49 units
+2025-11-22,Mumbai,Dumbbell Set,Reorder 42 units
+2025-11-22,Mumbai,Protein Powder,Reorder 46 units
+2025-11-22,Mumbai,Treadmill,Reorder 49 units
+2025-11-22,Mumbai,Exercise Ball,Reorder 43 units
+2025-11-22,Chennai,Yoga Mat,Reorder 49 units
+2025-11-22,Chennai,Dumbbell Set,Reorder 42 units
+2025-11-22,Chennai,Protein Powder,Reorder 46 units
+2025-11-22,Chennai,Treadmill,Reorder 49 units
+2025-11-22,Chennai,Exercise Ball,Reorder 43 units
+2025-11-22,Hyderabad,Yoga Mat,Reorder 49 units
+2025-11-22,Hyderabad,Dumbbell Set,Reorder 42 units
+2025-11-22,Hyderabad,Protein Powder,Reorder 46 units
+2025-11-22,Hyderabad,Treadmill,Reorder 49 units
+2025-11-22,Hyderabad,Exercise Ball,Reorder 43 units
+2025-11-23,Bangalore,Yoga Mat,Reorder 51 units
+2025-11-23,Bangalore,Dumbbell Set,Reorder 41 units
+2025-11-23,Bangalore,Protein Powder,Reorder 48 units
+2025-11-23,Bangalore,Treadmill,Reorder 51 units
+2025-11-23,Bangalore,Exercise Ball,Reorder 41 units
+2025-11-23,Delhi,Yoga Mat,Reorder 51 units
+2025-11-23,Delhi,Dumbbell Set,Reorder 41 units
+2025-11-23,Delhi,Protein Powder,Reorder 48 units
+2025-11-23,Delhi,Treadmill,Reorder 51 units
+2025-11-23,Delhi,Exercise Ball,Reorder 41 units
+2025-11-23,Mumbai,Yoga Mat,Reorder 51 units
+2025-11-23,Mumbai,Dumbbell Set,Reorder 41 units
+2025-11-23,Mumbai,Protein Powder,Reorder 48 units
+2025-11-23,Mumbai,Treadmill,Reorder 51 units
+2025-11-23,Mumbai,Exercise Ball,Reorder 41 units
+2025-11-23,Chennai,Yoga Mat,Reorder 51 units
+2025-11-23,Chennai,Dumbbell Set,Reorder 41 units
+2025-11-23,Chennai,Protein Powder,Reorder 48 units
+2025-11-23,Chennai,Treadmill,Reorder 51 units
+2025-11-23,Chennai,Exercise Ball,Reorder 41 units
+2025-11-23,Hyderabad,Yoga Mat,Reorder 51 units
+2025-11-23,Hyderabad,Dumbbell Set,Reorder 41 units
+2025-11-23,Hyderabad,Protein Powder,Reorder 48 units
+2025-11-23,Hyderabad,Treadmill,Reorder 51 units
+2025-11-23,Hyderabad,Exercise Ball,Reorder 41 units
+2025-11-24,Bangalore,Resistance Band,Reorder 42 units
+2025-11-24,Bangalore,Kettlebell,Reorder 43 units
+2025-11-24,Bangalore,Yoga Mat,Reorder 55 units
+2025-11-24,Bangalore,Dumbbell Set,Reorder 42 units
+2025-11-24,Bangalore,Protein Powder,Reorder 51 units
+2025-11-24,Bangalore,Treadmill,Reorder 55 units
+2025-11-24,Bangalore,Exercise Ball,Reorder 41 units
+2025-11-24,Delhi,Resistance Band,Reorder 42 units
+2025-11-24,Delhi,Kettlebell,Reorder 43 units
+2025-11-24,Delhi,Yoga Mat,Reorder 55 units
+2025-11-24,Delhi,Dumbbell Set,Reorder 42 units
+2025-11-24,Delhi,Protein Powder,Reorder 51 units
+2025-11-24,Delhi,Treadmill,Reorder 55 units
+2025-11-24,Delhi,Exercise Ball,Reorder 41 units
+2025-11-24,Mumbai,Resistance Band,Reorder 42 units
+2025-11-24,Mumbai,Kettlebell,Reorder 43 units
+2025-11-24,Mumbai,Yoga Mat,Reorder 55 units
+2025-11-24,Mumbai,Dumbbell Set,Reorder 42 units
+2025-11-24,Mumbai,Protein Powder,Reorder 51 units
+2025-11-24,Mumbai,Treadmill,Reorder 55 units
+2025-11-24,Mumbai,Exercise Ball,Reorder 41 units
+2025-11-24,Chennai,Resistance Band,Reorder 42 units
+2025-11-24,Chennai,Kettlebell,Reorder 43 units
+2025-11-24,Chennai,Yoga Mat,Reorder 55 units
+2025-11-24,Chennai,Dumbbell Set,Reorder 42 units
+2025-11-24,Chennai,Protein Powder,Reorder 51 units
+2025-11-24,Chennai,Treadmill,Reorder 55 units
+2025-11-24,Chennai,Exercise Ball,Reorder 41 units
+2025-11-24,Hyderabad,Resistance Band,Reorder 42 units
+2025-11-24,Hyderabad,Kettlebell,Reorder 43 units
+2025-11-24,Hyderabad,Yoga Mat,Reorder 55 units
+2025-11-24,Hyderabad,Dumbbell Set,Reorder 42 units
+2025-11-24,Hyderabad,Protein Powder,Reorder 51 units
+2025-11-24,Hyderabad,Treadmill,Reorder 55 units
+2025-11-24,Hyderabad,Exercise Ball,Reorder 41 units
+2025-11-25,Bangalore,Resistance Band,Reorder 50 units
+2025-11-25,Bangalore,Kettlebell,Reorder 53 units
+2025-11-25,Bangalore,Yoga Mat,Reorder 54 units
+2025-11-25,Bangalore,Dumbbell Set,Reorder 45 units
+2025-11-25,Bangalore,Protein Powder,Reorder 51 units
+2025-11-25,Bangalore,Treadmill,Reorder 54 units
+2025-11-25,Bangalore,Exercise Ball,Reorder 43 units
+2025-11-25,Delhi,Resistance Band,Reorder 50 units
+2025-11-25,Delhi,Kettlebell,Reorder 53 units
+2025-11-25,Delhi,Yoga Mat,Reorder 54 units
+2025-11-25,Delhi,Dumbbell Set,Reorder 45 units
+2025-11-25,Delhi,Protein Powder,Reorder 51 units
+2025-11-25,Delhi,Treadmill,Reorder 54 units
+2025-11-25,Delhi,Exercise Ball,Reorder 43 units
+2025-11-25,Mumbai,Resistance Band,Reorder 50 units
+2025-11-25,Mumbai,Kettlebell,Reorder 53 units
+2025-11-25,Mumbai,Yoga Mat,Reorder 54 units
+2025-11-25,Mumbai,Dumbbell Set,Reorder 45 units
+2025-11-25,Mumbai,Protein Powder,Reorder 51 units
+2025-11-25,Mumbai,Treadmill,Reorder 54 units
+2025-11-25,Mumbai,Exercise Ball,Reorder 43 units
+2025-11-25,Chennai,Resistance Band,Reorder 50 units
+2025-11-25,Chennai,Kettlebell,Reorder 53 units
+2025-11-25,Chennai,Yoga Mat,Reorder 54 units
+2025-11-25,Chennai,Dumbbell Set,Reorder 45 units
+2025-11-25,Chennai,Protein Powder,Reorder 51 units
+2025-11-25,Chennai,Treadmill,Reorder 54 units
+2025-11-25,Chennai,Exercise Ball,Reorder 43 units
+2025-11-25,Hyderabad,Resistance Band,Reorder 50 units
+2025-11-25,Hyderabad,Kettlebell,Reorder 53 units
+2025-11-25,Hyderabad,Yoga Mat,Reorder 54 units
+2025-11-25,Hyderabad,Dumbbell Set,Reorder 45 units
+2025-11-25,Hyderabad,Protein Powder,Reorder 51 units
+2025-11-25,Hyderabad,Treadmill,Reorder 54 units
+2025-11-25,Hyderabad,Exercise Ball,Reorder 43 units
+2025-11-26,Bangalore,Resistance Band,Reorder 64 units
+2025-11-26,Bangalore,Kettlebell,Reorder 64 units
+2025-11-26,Bangalore,Yoga Mat,Reorder 56 units
+2025-11-26,Bangalore,Dumbbell Set,Reorder 46 units
+2025-11-26,Bangalore,Protein Powder,Reorder 55 units
+2025-11-26,Bangalore,Treadmill,Reorder 56 units
+2025-11-26,Bangalore,Exercise Ball,Reorder 51 units
+2025-11-26,Delhi,Resistance Band,Reorder 64 units
+2025-11-26,Delhi,Kettlebell,Reorder 64 units
+2025-11-26,Delhi,Yoga Mat,Reorder 56 units
+2025-11-26,Delhi,Dumbbell Set,Reorder 46 units
+2025-11-26,Delhi,Protein Powder,Reorder 55 units
+2025-11-26,Delhi,Treadmill,Reorder 56 units
+2025-11-26,Delhi,Exercise Ball,Reorder 51 units
+2025-11-26,Mumbai,Resistance Band,Reorder 64 units
+2025-11-26,Mumbai,Kettlebell,Reorder 64 units
+2025-11-26,Mumbai,Yoga Mat,Reorder 56 units
+2025-11-26,Mumbai,Dumbbell Set,Reorder 46 units
+2025-11-26,Mumbai,Protein Powder,Reorder 55 units
+2025-11-26,Mumbai,Treadmill,Reorder 56 units
+2025-11-26,Mumbai,Exercise Ball,Reorder 51 units
+2025-11-26,Chennai,Resistance Band,Reorder 64 units
+2025-11-26,Chennai,Kettlebell,Reorder 64 units
+2025-11-26,Chennai,Yoga Mat,Reorder 56 units
+2025-11-26,Chennai,Dumbbell Set,Reorder 46 units
+2025-11-26,Chennai,Protein Powder,Reorder 55 units
+2025-11-26,Chennai,Treadmill,Reorder 56 units
+2025-11-26,Chennai,Exercise Ball,Reorder 51 units
+2025-11-26,Hyderabad,Resistance Band,Reorder 64 units
+2025-11-26,Hyderabad,Kettlebell,Reorder 64 units
+2025-11-26,Hyderabad,Yoga Mat,Reorder 56 units
+2025-11-26,Hyderabad,Dumbbell Set,Reorder 46 units
+2025-11-26,Hyderabad,Protein Powder,Reorder 55 units
+2025-11-26,Hyderabad,Treadmill,Reorder 56 units
+2025-11-26,Hyderabad,Exercise Ball,Reorder 51 units

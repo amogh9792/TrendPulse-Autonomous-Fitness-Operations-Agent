@@ -1,0 +1,421 @@
+date,product,trend_score
+2025-08-01,Resistance Band,81
+2025-08-01,Kettlebell,82
+2025-08-01,Yoga Mat,47
+2025-08-01,Dumbbell Set,72
+2025-08-01,Protein Powder,67
+2025-08-01,Treadmill,46
+2025-08-01,Exercise Ball,42
+2025-08-02,Resistance Band,19
+2025-08-02,Kettlebell,62
+2025-08-02,Yoga Mat,41
+2025-08-02,Dumbbell Set,58
+2025-08-02,Protein Powder,74
+2025-08-02,Treadmill,42
+2025-08-02,Exercise Ball,13
+2025-08-03,Resistance Band,55
+2025-08-03,Kettlebell,46
+2025-08-03,Yoga Mat,45
+2025-08-03,Dumbbell Set,35
+2025-08-03,Protein Powder,23
+2025-08-03,Treadmill,52
+2025-08-03,Exercise Ball,67
+2025-08-04,Resistance Band,67
+2025-08-04,Kettlebell,56
+2025-08-04,Yoga Mat,32
+2025-08-04,Dumbbell Set,64
+2025-08-04,Protein Powder,35
+2025-08-04,Treadmill,62
+2025-08-04,Exercise Ball,23
+2025-08-05,Resistance Band,38
+2025-08-05,Kettlebell,58
+2025-08-05,Yoga Mat,56
+2025-08-05,Dumbbell Set,52
+2025-08-05,Protein Powder,64
+2025-08-05,Treadmill,23
+2025-08-05,Exercise Ball,51
+2025-08-06,Resistance Band,31
+2025-08-06,Kettlebell,32
+2025-08-06,Yoga Mat,31
+2025-08-06,Dumbbell Set,51
+2025-08-06,Protein Powder,29
+2025-08-06,Treadmill,37
+2025-08-06,Exercise Ball,48
+2025-08-07,Resistance Band,57
+2025-08-07,Kettlebell,50
+2025-08-07,Yoga Mat,60
+2025-08-07,Dumbbell Set,38
+2025-08-07,Protein Powder,61
+2025-08-07,Treadmill,64
+2025-08-07,Exercise Ball,72
+2025-08-08,Resistance Band,33
+2025-08-08,Kettlebell,79
+2025-08-08,Yoga Mat,54
+2025-08-08,Dumbbell Set,57
+2025-08-08,Protein Powder,47
+2025-08-08,Treadmill,32
+2025-08-08,Exercise Ball,36
+2025-08-09,Resistance Band,34
+2025-08-09,Kettlebell,58
+2025-08-09,Yoga Mat,52
+2025-08-09,Dumbbell Set,67
+2025-08-09,Protein Powder,35
+2025-08-09,Treadmill,61
+2025-08-09,Exercise Ball,33
+2025-08-10,Resistance Band,54
+2025-08-10,Kettlebell,49
+2025-08-10,Yoga Mat,49
+2025-08-10,Dumbbell Set,28
+2025-08-10,Protein Powder,57
+2025-08-10,Treadmill,13
+2025-08-10,Exercise Ball,64
+2025-08-11,Resistance Band,46
+2025-08-11,Kettlebell,43
+2025-08-11,Yoga Mat,34
+2025-08-11,Dumbbell Set,44
+2025-08-11,Protein Powder,20
+2025-08-11,Treadmill,70
+2025-08-11,Exercise Ball,48
+2025-08-12,Resistance Band,49
+2025-08-12,Kettlebell,54
+2025-08-12,Yoga Mat,59
+2025-08-12,Dumbbell Set,35
+2025-08-12,Protein Powder,56
+2025-08-12,Treadmill,60
+2025-08-12,Exercise Ball,32
+2025-08-13,Resistance Band,54
+2025-08-13,Kettlebell,43
+2025-08-13,Yoga Mat,31
+2025-08-13,Dumbbell Set,47
+2025-08-13,Protein Powder,37
+2025-08-13,Treadmill,63
+2025-08-13,Exercise Ball,64
+2025-08-14,Resistance Band,54
+2025-08-14,Kettlebell,56
+2025-08-14,Yoga Mat,44
+2025-08-14,Dumbbell Set,61
+2025-08-14,Protein Powder,69
+2025-08-14,Treadmill,47
+2025-08-14,Exercise Ball,52
+2025-08-15,Resistance Band,83
+2025-08-15,Kettlebell,36
+2025-08-15,Yoga Mat,50
+2025-08-15,Dumbbell Set,38
+2025-08-15,Protein Powder,38
+2025-08-15,Treadmill,44
+2025-08-15,Exercise Ball,53
+2025-08-16,Resistance Band,53
+2025-08-16,Kettlebell,45
+2025-08-16,Yoga Mat,58
+2025-08-16,Dumbbell Set,60
+2025-08-16,Protein Powder,58
+2025-08-16,Treadmill,37
+2025-08-16,Exercise Ball,70
+2025-08-17,Resistance Band,88
+2025-08-17,Kettlebell,42
+2025-08-17,Yoga Mat,57
+2025-08-17,Dumbbell Set,91
+2025-08-17,Protein Powder,72
+2025-08-17,Treadmill,39
+2025-08-17,Exercise Ball,18
+2025-08-18,Resistance Band,49
+2025-08-18,Kettlebell,34
+2025-08-18,Yoga Mat,41
+2025-08-18,Dumbbell Set,61
+2025-08-18,Protein Powder,18
+2025-08-18,Treadmill,39
+2025-08-18,Exercise Ball,28
+2025-08-19,Resistance Band,37
+2025-08-19,Kettlebell,21
+2025-08-19,Yoga Mat,17
+2025-08-19,Dumbbell Set,47
+2025-08-19,Protein Powder,57
+2025-08-19,Treadmill,59
+2025-08-19,Exercise Ball,50
+2025-08-20,Resistance Band,52
+2025-08-20,Kettlebell,38
+2025-08-20,Yoga Mat,42
+2025-08-20,Dumbbell Set,50
+2025-08-20,Protein Powder,48
+2025-08-20,Treadmill,41
+2025-08-20,Exercise Ball,46
+2025-08-21,Resistance Band,59
+2025-08-21,Kettlebell,61
+2025-08-21,Yoga Mat,67
+2025-08-21,Dumbbell Set,71
+2025-08-21,Protein Powder,63
+2025-08-21,Treadmill,77
+2025-08-21,Exercise Ball,35
+2025-08-22,Resistance Band,44
+2025-08-22,Kettlebell,50
+2025-08-22,Yoga Mat,33
+2025-08-22,Dumbbell Set,58
+2025-08-22,Protein Powder,55
+2025-08-22,Treadmill,87
+2025-08-22,Exercise Ball,36
+2025-08-23,Resistance Band,30
+2025-08-23,Kettlebell,42
+2025-08-23,Yoga Mat,58
+2025-08-23,Dumbbell Set,80
+2025-08-23,Protein Powder,17
+2025-08-23,Treadmill,50
+2025-08-23,Exercise Ball,47
+2025-08-24,Resistance Band,36
+2025-08-24,Kettlebell,59
+2025-08-24,Yoga Mat,52
+2025-08-24,Dumbbell Set,48
+2025-08-24,Protein Powder,38
+2025-08-24,Treadmill,43
+2025-08-24,Exercise Ball,19
+2025-08-25,Resistance Band,34
+2025-08-25,Kettlebell,31
+2025-08-25,Yoga Mat,44
+2025-08-25,Dumbbell Set,54
+2025-08-25,Protein Powder,52
+2025-08-25,Treadmill,74
+2025-08-25,Exercise Ball,46
+2025-08-26,Resistance Band,46
+2025-08-26,Kettlebell,27
+2025-08-26,Yoga Mat,58
+2025-08-26,Dumbbell Set,35
+2025-08-26,Protein Powder,70
+2025-08-26,Treadmill,46
+2025-08-26,Exercise Ball,45
+2025-08-27,Resistance Band,55
+2025-08-27,Kettlebell,49
+2025-08-27,Yoga Mat,67
+2025-08-27,Dumbbell Set,50
+2025-08-27,Protein Powder,55
+2025-08-27,Treadmill,43
+2025-08-27,Exercise Ball,28
+2025-08-28,Resistance Band,43
+2025-08-28,Kettlebell,54
+2025-08-28,Yoga Mat,29
+2025-08-28,Dumbbell Set,75
+2025-08-28,Protein Powder,58
+2025-08-28,Treadmill,32
+2025-08-28,Exercise Ball,71
+2025-08-29,Resistance Band,55
+2025-08-29,Kettlebell,37
+2025-08-29,Yoga Mat,52
+2025-08-29,Dumbbell Set,55
+2025-08-29,Protein Powder,63
+2025-08-29,Treadmill,74
+2025-08-29,Exercise Ball,60
+2025-08-30,Resistance Band,54
+2025-08-30,Kettlebell,67
+2025-08-30,Yoga Mat,49
+2025-08-30,Dumbbell Set,40
+2025-08-30,Protein Powder,40
+2025-08-30,Treadmill,56
+2025-08-30,Exercise Ball,57
+2025-08-31,Resistance Band,38
+2025-08-31,Kettlebell,40
+2025-08-31,Yoga Mat,56
+2025-08-31,Dumbbell Set,60
+2025-08-31,Protein Powder,30
+2025-08-31,Treadmill,42
+2025-08-31,Exercise Ball,77
+2025-09-01,Resistance Band,35
+2025-09-01,Kettlebell,75
+2025-09-01,Yoga Mat,56
+2025-09-01,Dumbbell Set,51
+2025-09-01,Protein Powder,72
+2025-09-01,Treadmill,34
+2025-09-01,Exercise Ball,50
+2025-09-02,Resistance Band,54
+2025-09-02,Kettlebell,61
+2025-09-02,Yoga Mat,76
+2025-09-02,Dumbbell Set,59
+2025-09-02,Protein Powder,26
+2025-09-02,Treadmill,50
+2025-09-02,Exercise Ball,24
+2025-09-03,Resistance Band,43
+2025-09-03,Kettlebell,53
+2025-09-03,Yoga Mat,73
+2025-09-03,Dumbbell Set,67
+2025-09-03,Protein Powder,47
+2025-09-03,Treadmill,78
+2025-09-03,Exercise Ball,45
+2025-09-04,Resistance Band,56
+2025-09-04,Kettlebell,59
+2025-09-04,Yoga Mat,54
+2025-09-04,Dumbbell Set,67
+2025-09-04,Protein Powder,44
+2025-09-04,Treadmill,56
+2025-09-04,Exercise Ball,52
+2025-09-05,Resistance Band,66
+2025-09-05,Kettlebell,62
+2025-09-05,Yoga Mat,50
+2025-09-05,Dumbbell Set,59
+2025-09-05,Protein Powder,46
+2025-09-05,Treadmill,21
+2025-09-05,Exercise Ball,76
+2025-09-06,Resistance Band,52
+2025-09-06,Kettlebell,70
+2025-09-06,Yoga Mat,36
+2025-09-06,Dumbbell Set,56
+2025-09-06,Protein Powder,57
+2025-09-06,Treadmill,52
+2025-09-06,Exercise Ball,50
+2025-09-07,Resistance Band,56
+2025-09-07,Kettlebell,61
+2025-09-07,Yoga Mat,55
+2025-09-07,Dumbbell Set,94
+2025-09-07,Protein Powder,56
+2025-09-07,Treadmill,14
+2025-09-07,Exercise Ball,28
+2025-09-08,Resistance Band,66
+2025-09-08,Kettlebell,49
+2025-09-08,Yoga Mat,16
+2025-09-08,Dumbbell Set,58
+2025-09-08,Protein Powder,45
+2025-09-08,Treadmill,68
+2025-09-08,Exercise Ball,46
+2025-09-09,Resistance Band,46
+2025-09-09,Kettlebell,64
+2025-09-09,Yoga Mat,70
+2025-09-09,Dumbbell Set,42
+2025-09-09,Protein Powder,46
+2025-09-09,Treadmill,53
+2025-09-09,Exercise Ball,46
+2025-09-10,Resistance Band,52
+2025-09-10,Kettlebell,29
+2025-09-10,Yoga Mat,35
+2025-09-10,Dumbbell Set,27
+2025-09-10,Protein Powder,53
+2025-09-10,Treadmill,15
+2025-09-10,Exercise Ball,52
+2025-09-11,Resistance Band,54
+2025-09-11,Kettlebell,67
+2025-09-11,Yoga Mat,24
+2025-09-11,Dumbbell Set,54
+2025-09-11,Protein Powder,64
+2025-09-11,Treadmill,40
+2025-09-11,Exercise Ball,43
+2025-09-12,Resistance Band,32
+2025-09-12,Kettlebell,74
+2025-09-12,Yoga Mat,36
+2025-09-12,Dumbbell Set,50
+2025-09-12,Protein Powder,32
+2025-09-12,Treadmill,79
+2025-09-12,Exercise Ball,29
+2025-09-13,Resistance Band,34
+2025-09-13,Kettlebell,41
+2025-09-13,Yoga Mat,93
+2025-09-13,Dumbbell Set,40
+2025-09-13,Protein Powder,58
+2025-09-13,Treadmill,42
+2025-09-13,Exercise Ball,23
+2025-09-14,Resistance Band,79
+2025-09-14,Kettlebell,66
+2025-09-14,Yoga Mat,69
+2025-09-14,Dumbbell Set,40
+2025-09-14,Protein Powder,31
+2025-09-14,Treadmill,62
+2025-09-14,Exercise Ball,48
+2025-09-15,Resistance Band,63
+2025-09-15,Kettlebell,80
+2025-09-15,Yoga Mat,28
+2025-09-15,Dumbbell Set,38
+2025-09-15,Protein Powder,69
+2025-09-15,Treadmill,41
+2025-09-15,Exercise Ball,35
+2025-09-16,Resistance Band,64
+2025-09-16,Kettlebell,54
+2025-09-16,Yoga Mat,64
+2025-09-16,Dumbbell Set,53
+2025-09-16,Protein Powder,31
+2025-09-16,Treadmill,33
+2025-09-16,Exercise Ball,26
+2025-09-17,Resistance Band,54
+2025-09-17,Kettlebell,43
+2025-09-17,Yoga Mat,43
+2025-09-17,Dumbbell Set,45
+2025-09-17,Protein Powder,48
+2025-09-17,Treadmill,70
+2025-09-17,Exercise Ball,82
+2025-09-18,Resistance Band,35
+2025-09-18,Kettlebell,28
+2025-09-18,Yoga Mat,32
+2025-09-18,Dumbbell Set,68
+2025-09-18,Protein Powder,22
+2025-09-18,Treadmill,33
+2025-09-18,Exercise Ball,45
+2025-09-19,Resistance Band,12
+2025-09-19,Kettlebell,56
+2025-09-19,Yoga Mat,55
+2025-09-19,Dumbbell Set,55
+2025-09-19,Protein Powder,27
+2025-09-19,Treadmill,48
+2025-09-19,Exercise Ball,45
+2025-09-20,Resistance Band,42
+2025-09-20,Kettlebell,40
+2025-09-20,Yoga Mat,33
+2025-09-20,Dumbbell Set,56
+2025-09-20,Protein Powder,68
+2025-09-20,Treadmill,41
+2025-09-20,Exercise Ball,74
+2025-09-21,Resistance Band,56
+2025-09-21,Kettlebell,57
+2025-09-21,Yoga Mat,74
+2025-09-21,Dumbbell Set,37
+2025-09-21,Protein Powder,62
+2025-09-21,Treadmill,57
+2025-09-21,Exercise Ball,46
+2025-09-22,Resistance Band,91
+2025-09-22,Kettlebell,73
+2025-09-22,Yoga Mat,26
+2025-09-22,Dumbbell Set,51
+2025-09-22,Protein Powder,39
+2025-09-22,Treadmill,56
+2025-09-22,Exercise Ball,61
+2025-09-23,Resistance Band,49
+2025-09-23,Kettlebell,69
+2025-09-23,Yoga Mat,52
+2025-09-23,Dumbbell Set,31
+2025-09-23,Protein Powder,25
+2025-09-23,Treadmill,34
+2025-09-23,Exercise Ball,38
+2025-09-24,Resistance Band,29
+2025-09-24,Kettlebell,39
+2025-09-24,Yoga Mat,55
+2025-09-24,Dumbbell Set,58
+2025-09-24,Protein Powder,47
+2025-09-24,Treadmill,60
+2025-09-24,Exercise Ball,66
+2025-09-25,Resistance Band,41
+2025-09-25,Kettlebell,14
+2025-09-25,Yoga Mat,29
+2025-09-25,Dumbbell Set,80
+2025-09-25,Protein Powder,59
+2025-09-25,Treadmill,31
+2025-09-25,Exercise Ball,78
+2025-09-26,Resistance Band,44
+2025-09-26,Kettlebell,52
+2025-09-26,Yoga Mat,64
+2025-09-26,Dumbbell Set,35
+2025-09-26,Protein Powder,67
+2025-09-26,Treadmill,60
+2025-09-26,Exercise Ball,61
+2025-09-27,Resistance Band,66
+2025-09-27,Kettlebell,49
+2025-09-27,Yoga Mat,33
+2025-09-27,Dumbbell Set,48
+2025-09-27,Protein Powder,65
+2025-09-27,Treadmill,26
+2025-09-27,Exercise Ball,34
+2025-09-28,Resistance Band,93
+2025-09-28,Kettlebell,42
+2025-09-28,Yoga Mat,66
+2025-09-28,Dumbbell Set,35
+2025-09-28,Protein Powder,38
+2025-09-28,Treadmill,52
+2025-09-28,Exercise Ball,48
+2025-09-29,Resistance Band,31
+2025-09-29,Kettlebell,36
+2025-09-29,Yoga Mat,47
+2025-09-29,Dumbbell Set,54
+2025-09-29,Protein Powder,44
+2025-09-29,Treadmill,58
+2025-09-29,Exercise Ball,47
