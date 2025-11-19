@@ -15,7 +15,6 @@ def generate_recommendations(predictions_df, threshold=40):
                 "action": f"Reorder {row['predicted_units']} units"
             })
 
-    # For demo, if recs empty, add a small fake action
     if not recs:
         recs.append({
             "date": predictions_df["date"].iloc[0].strftime("%Y-%m-%d"),

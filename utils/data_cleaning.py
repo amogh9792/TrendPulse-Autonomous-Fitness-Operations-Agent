@@ -13,5 +13,5 @@ def load_and_clean_trends(file_path="data/trends.csv"):
 
 def merge_sales_trends(sales_df, trends_df):
     merged = sales_df.merge(trends_df, on=["date", "product"], how="left")
-    merged["trend_score"].fillna(50, inplace=True)  # default trend score
+    merged["trend_score"].fillna(50, inplace=True) 
     return merged

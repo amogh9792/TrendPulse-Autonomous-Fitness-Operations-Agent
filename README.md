@@ -94,18 +94,6 @@ streamlit run dashboard/app.py
   * Replace RandomForest with more advanced models
   * Add more analytics agents
 
----
-
-## Demo-Ready for BoldFit
-
-This project showcases:
-
-* Autonomous AI in **operations intelligence**
-* **Forecasting & decision-making** for inventory management
-* Fast, modular, and scalable workflows
-* Interactive dashboards to impress **Founders and Executives**
-
----
 
 ## License
 

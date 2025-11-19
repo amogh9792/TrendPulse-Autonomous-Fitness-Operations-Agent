@@ -7,7 +7,7 @@ st.title("TrendPulse Lite: Fitness Operations Agentic AI")
 try:
     predictions = pd.read_csv("data/processed/predictions.csv")
 except (FileNotFoundError, pd.errors.EmptyDataError):
-    st.warning("Run run_trendpulse.py first to generate predictions.")
+    st.warning("Run main.py first to generate predictions.")
     predictions = pd.DataFrame()
 
 try:
